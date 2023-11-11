@@ -10,8 +10,8 @@ TODO - описание проекта
 
 |                                                                                               CI                                                                                              |                          Ссылка на репозиторий                          | Стек                |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|---------------------|
-| [![CI](https://github.com/Junior-Hackathon-Charity-2023/frontend/actions/workflows/push.yml/badge.svg)](https://github.com/Junior-Hackathon-Charity-2023/frontend/actions/workflows/push.yml) | [🎨 Frontend](https://github.com/Junior-Hackathon-Charity-2023/frontend) | Java, Spring        |
-| [![CI](https://github.com/Junior-Hackathon-Charity-2023/backend/actions/workflows/push.yml/badge.svg)](https://github.com/Junior-Hackathon-Charity-2023/backend/actions/workflows/push.yml)   | [🤖 Backend](https://github.com/Junior-Hackathon-Charity-2023/backend)   | TypeScript, Next.js |
+| [![CI](https://github.com/Junior-Hackathon-Charity-2023/frontend/actions/workflows/push.yml/badge.svg)](https://github.com/Junior-Hackathon-Charity-2023/frontend/actions/workflows/push.yml) | [🎨 Frontend](https://github.com/Junior-Hackathon-Charity-2023/frontend) | JavaScript, React       |
+| [![CI](https://github.com/Junior-Hackathon-Charity-2023/backend/actions/workflows/push.yml/badge.svg)](https://github.com/Junior-Hackathon-Charity-2023/backend/actions/workflows/push.yml)   | [🤖 Backend](https://github.com/Junior-Hackathon-Charity-2023/backend)   | Java, Spring |
 
 ## Участники
 
